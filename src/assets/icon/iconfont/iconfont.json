@@ -1,0 +1,44 @@
+{
+  "id": "2388476",
+  "name": "咖啡",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18522207",
+      "name": "安全",
+      "font_class": "secure",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "4615699",
+      "name": "收 藏 (1)",
+      "font_class": "shoucang",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    },
+    {
+      "icon_id": "19989907",
+      "name": "profile",
+      "font_class": "profile",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "19989909",
+      "name": "order",
+      "font_class": "order",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "19989912",
+      "name": "location",
+      "font_class": "location",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    }
+  ]
+}
